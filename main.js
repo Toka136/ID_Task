@@ -11,6 +11,7 @@ function calc_info()
     }
     else
     {
+        document.getElementById('res').style.color="#e0aaff";
         let arr=[];
         let year;
         let month;
